@@ -6,7 +6,8 @@ public class test {
 		sout remoteadadweeee
 			sdad
 			sdfsfsfsfs
-	fsafsafasfawww222qq
+	fsafsafasfawww222qq           2222222222222222222222
+			fsafasfafafafafa
 adadadadadadaqqqqq
 			sadadada
 afasfaskfasjkfhasjfhakfas
