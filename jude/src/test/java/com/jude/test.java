@@ -5,5 +5,9 @@ public class test {
     public static void main(String[] args) {
 		asdadad
 		sout bendi
+		sout remote
+			sdad
+			sdfsfsfsfs
+	fsafsafasfawww222
     }
 }
